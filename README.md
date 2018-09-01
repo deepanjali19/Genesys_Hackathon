@@ -1,3 +1,3 @@
 # Genesys_Hackathon
 
-This project
+This project was completed during the Genesys Hackathon that I participated
